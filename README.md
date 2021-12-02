@@ -2,6 +2,6 @@
 
 Just playing around with rust. 
 
-:warning: weak comments and error handling within.
+:warning: Weak comments and error handling within :warning:
 
-[Problems](adventofcode.com/2021)
+[Problems](https://adventofcode.com/2021)

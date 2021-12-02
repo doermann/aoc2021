@@ -3,7 +3,7 @@
 mod day1;
 mod day2;
 
-use day1::{part1, part2};
+use day2::{part1, part2};
 
 fn main() {
     println!("part1: {}", part1());
